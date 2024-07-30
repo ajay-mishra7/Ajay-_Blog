@@ -14,7 +14,7 @@ const LoginScreen = () => {
 
     try {
       const { data } = await axios.post(
-        "/auth/login",
+        "https://ajay-blog-xaq2.onrender.com/auth/login",
         { email, password }
       );
       localStorage.setItem("authToken", data.token);
