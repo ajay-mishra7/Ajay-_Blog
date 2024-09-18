@@ -42,13 +42,6 @@ const LoginScreen = () => {
 
         <div className="section-wrapper">
 
-          // <div className="top-suggest_register">
-
-          //   <span>Don't have an account? </span>
-          //   <a href="/register">Sign Up</a>
-
-          // </div>
-
           <div className="top-login-explain">
             <h2>Login to Your Account </h2>
 
