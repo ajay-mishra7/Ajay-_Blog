@@ -62,10 +62,10 @@ const RegisterScreen = () => {
 
         <div className="section-wrapper">
 
-          <div className="top-suggest_login">
-            <span> Have an account? </span>
-            <a href="/login">Sign In</a>
-          </div>
+          // <div className="top-suggest_login">
+          //   <span> Have an account? </span>
+          //   <a href="/login">Sign In</a>
+          // </div>
 
           <div className="top-register-explain">
             <h2>Welcome to MERN Blog </h2>
